@@ -1698,6 +1698,7 @@ add tags.creativecdn.com
 
 
 # 16.12.2024
+otto.de
 pornhub.com
 
 # END of Blacklist
