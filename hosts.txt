@@ -1696,4 +1696,8 @@ fourier.taobao.com
 ae.mmstat.com
 add tags.creativecdn.com
 
+
+# 16.12.2024
+pornhub.com
+
 # END of Blacklist

@@ -1711,6 +1711,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 ae.mmstat.com
 0.0.0.0 add tags.creativecdn.com
 
+
+# 16.12.2024
+0.0.0.0 pornhub.com
+
 # END of Blacklist
 
 # blacklist
