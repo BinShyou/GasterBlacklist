@@ -18,7 +18,7 @@ def main() -> None:
     print("Running console... (Use 'q' or 'quit' to exit) ('h' or 'help' for all commands)\n")
 
     # Pull current changes to make sure that we don't make any unchanged changes.
-    pull_git()
+    
 
     # Interactive Loop
     active = True
