@@ -1694,7 +1694,7 @@ fourier.aliexpress.com
 fourier.taobao.com
 1vkuiy.tdum.alibaba.com
 ae.mmstat.com
-add tags.creativecdn.com
+tags.creativecdn.com
 
 
 # 16.12.2024
